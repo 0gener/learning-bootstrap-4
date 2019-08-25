@@ -1,0 +1,24 @@
+{
+  "name": "intro-component-with-signup-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "./bin/build-css",
+    "watch-css": "./bin/watch-css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0gener/learning-bootstrap-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0gener/learning-bootstrap-4/issues"
+  },
+  "homepage": "https://github.com/0gener/learning-bootstrap-4#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.19.1"
+  }
+}
